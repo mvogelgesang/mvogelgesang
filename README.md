@@ -1,6 +1,6 @@
 # Mark Vogelgesang
 
-Hey there 👋, I'm Mark Vogelgesang and I currently work for the US General Services Administration as a part of our Office of Customer Experience.
+Hey there 👋, I'm Mark and I work for the US General Services Administration as a part of our Office of Customer Experience.
 
 ## My Current Projects
 
