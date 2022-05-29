@@ -1,13 +1,14 @@
 # Mark Vogelgesang
 
-Hey there 👋, I'm Mark and I work for the US General Services Administration as a part of our Office of Customer Experience.
+Hey there, I'm Mark and I work for the US General Services Administration as a part of our Office of Customer Experience.
 
 ## My Current Projects
 
 - [GSA Enterprise Digital Experience](https://github.com/gsa/edx)
+- [Grabbing a Snack](https://grabbingasnack.com)
 - [USWDS Salesforce Lightning Community](https://github.com/GSA/uswds-sf-lightning-community)
 
-## What I am Learning 📖
+## What I am Learning
 
 - Typescript
 - Docker
