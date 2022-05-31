@@ -5,7 +5,9 @@ Hey there, I'm Mark and I work for the US General Services Administration as a p
 ## My Current Projects
 
 - [GSA Enterprise Digital Experience](https://github.com/gsa/edx)
+  - Working across GSA to enhance our digital presence by providing the public richer and more cohesive experiences.
 - [Grabbing a Snack](https://grabbingasnack.com)
+  - Grabbing a Snack is a way to share cheeky and practical messages via custom backgrounds in your next virtual meeting. 
 - [USWDS Salesforce Lightning Community](https://github.com/GSA/uswds-sf-lightning-community)
 
 ## What I am Learning
