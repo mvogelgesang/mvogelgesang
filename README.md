@@ -4,15 +4,12 @@ Hey there, I'm Mark and I work for Salesforce as a Principal ISV Platform Expert
 
 ## My Current Projects
 
-- [GSA Enterprise Digital Experience](https://github.com/gsa/edx)
-  - Working across GSA to enhance our digital presence by providing the public richer and more cohesive experiences.
-- [Grabbing a Snack](https://grabbingasnack.com)
-  - Grabbing a Snack is a way to share cheeky and practical messages via custom backgrounds in your next virtual meeting. 
 - [USWDS Salesforce Lightning Community](https://github.com/GSA/uswds-sf-lightning-community)
   - A custom theme for Salesforce Lightning Communities which implements major portions of the [US Web Design System](https://designsystem.digital.gov/) to help bring government websites into greater compliance with the 21st Century Digital IDEA.
 
 ## What I am Learning
 
+- All things Salesforce
 - Typescript
 - Docker
 
