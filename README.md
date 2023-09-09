@@ -4,14 +4,15 @@ Hey there, I'm Mark and I work for Salesforce as a Principal ISV Platform Expert
 
 ## My Current Projects
 
-- [USWDS Salesforce Lightning Community](https://github.com/GSA/uswds-sf-lightning-community)
-  - A custom theme for Salesforce Lightning Communities which implements major portions of the [US Web Design System](https://designsystem.digital.gov/) to help bring government websites into greater compliance with the 21st Century Digital IDEA.
+- [Quick Org Creator](https://github.com/GSA/quick-org-creator)
+  - A shell script that enables quick creation of Salesforce scratch orgs and project directories.
+- 🚀 [mvogelgesang.com](https://github.com/GSA/mark-vogelgesang) 
+  - My personal site built on Astro
 
 ## What I am Learning
 
 - All things Salesforce
 - Typescript
-- Docker
 
 ## Some Gists
 
