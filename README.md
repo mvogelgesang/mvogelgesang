@@ -5,7 +5,9 @@ Hey there, I'm Mark and I work for Salesforce as a Principal ISV Platform Expert
 ## My Current Projects
 
 - [Quick Org Creator](https://github.com/mvogelgesang/quick-org-creator)
-  - A shell script that enables quick creation of Salesforce scratch orgs and project directories.
+  - A Homebrew-installable shell script that enables quick creation of Salesforce scratch orgs and project directories.
+- [Rehype Table Data Label](https://github.com/mvogelgesang/rehype-table-data-label)
+  - Rehype plugin that adds data-label attribute to table cells based on content in table header cells. 
 - 🚀 [mvogelgesang.com](https://github.com/mvogelgesang/mark-vogelgesang) 
   - My personal site built on Astro
 
