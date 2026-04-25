@@ -1,13 +1,24 @@
 # Mark Vogelgesang
 
-Hey there, I'm Mark and I work for Salesforce as a Principal ISV Platform Expert supporting AppExchange Partners.
+Hey there, I'm Mark and I am a Director of Product Management at Salesforce where I focus on products and features for our ISV Partners.
 
-## My Current Projects
+## Salesforce Repos
+
+- [Reference Architecture - MCP Server Registration using custom headers](https://github.com/mvogelgesang/20260424_googleMapsMCP)
+  - A reference repository demonstrating how to build a managed package containing manually configured auth headers. Uses Google Maps Grounding Lite MCP as implementation example.
+- [MCP Metadata Generator](https://github.com/mvogelgesang/create-sf-mcp-client-metadata)
+  - NPM utility to generate Salesforce metadata for MCP Server Registrations
+- [MCP Workbench](https://github.com/mvogelgesang/MCP-Workbench)
+  - Apex-based utility to debug connectivity issues when connecting to MCPs from Salesforce
+
+## Additional Projects
 
 - [Quick Org Creator](https://github.com/mvogelgesang/quick-org-creator)
   - A Homebrew-installable shell script that enables quick creation of Salesforce scratch orgs and project directories.
 - 🚀 [mvogelgesang.com](https://github.com/mvogelgesang/mark-vogelgesang) 
   - My personal site built on Astro
+- [EDX (Enterprise Digital Experience)](https://github.com/mvogelgesang/EDX)
+  - (Archived as of April 2023) Node-based utility using Puppeteer to scan US government websites and validate compliance with the 21st Century IDEA Act. 
  
 ### NPM Packages
 
@@ -15,11 +26,6 @@ Hey there, I'm Mark and I work for Salesforce as a Principal ISV Platform Expert
   - Stylelint plugin to check for Salesforce Lightning Design System anti-patterns in your CSS files.
 - [Rehype Table Data Label](https://github.com/mvogelgesang/rehype-table-data-label)
   - Rehype plugin that adds data-label attribute to table cells based on content in table header cells. 
-
-## What I am Learning
-
-- All things Salesforce
-- Typescript
 
 ## Some Gists
 
